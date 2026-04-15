@@ -10,5 +10,5 @@ app.use(
 );
 
 app.listen(8000, () => {
-  console.log("Product service is running okn port 8000");
+  console.log("Product service is running on port 8000");
 });
